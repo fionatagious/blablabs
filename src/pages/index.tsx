@@ -2,6 +2,7 @@ import Head from 'next/head'
 
 export default function Home() {
 <<<<<<< HEAD
+<<<<<<< HEAD
   return (
     <div className="flex justify-center">
       <Head>
@@ -16,6 +17,8 @@ export default function Home() {
   )
 }
 =======
+=======
+>>>>>>> 57197536a95b3cf6f165b990a56bea52a730f822
     return (
       <div className="flex justify-center">
         <Head>
@@ -28,5 +31,9 @@ export default function Home() {
         </div>
       </div>
     )
+<<<<<<< HEAD
+  }
+>>>>>>> 57197536a95b3cf6f165b990a56bea52a730f822
+=======
   }
 >>>>>>> 57197536a95b3cf6f165b990a56bea52a730f822
